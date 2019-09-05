@@ -1,0 +1,13 @@
+
+skeleton.png
+size: 8192,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Assets/orb_small_active
+  rotate: false
+  xy: 2, 2
+  size: 392, 391
+  orig: 392, 391
+  offset: 0, 0
+  index: -1
